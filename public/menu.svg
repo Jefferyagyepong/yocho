@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1122.5" height="793.7" version="1.1" viewBox="0 0 297 210" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter11570" x="-.094202" y="-.13058" width="1.1884" height="1.2612" color-interpolation-filters="sRGB">
+   <feGaussianBlur result="result8" stdDeviation="4"/>
+   <feTurbulence baseFrequency="0.01 0.01" numOctaves="7" result="result7" seed="50"/>
+   <feColorMatrix result="result5" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.4 0 "/>
+   <feComposite in="result5" in2="result8" operator="in" result="result6"/>
+   <feDisplacementMap in="result5" in2="result6" result="result4" scale="100"/>
+   <feFlood flood-color="rgb(224,224,224)"/>
+   <feComposite in2="result4" operator="atop" result="result2"/>
+   <feComposite in="result2" in2="SourceGraphic" operator="atop" result="result9"/>
+   <feBlend in2="result9" mode="darken" result="fbSourceGraphic"/>
+   <feGaussianBlur in="fbSourceGraphic" result="result0" stdDeviation="5"/>
+   <feSpecularLighting lighting-color="rgb(255,255,255)" in="result0" result="result1" specularConstant="0.8" specularExponent="30" surfaceScale="8">
+    <feDistantLight azimuth="235" elevation="55"/>
+   </feSpecularLighting>
+   <feComposite in="result1" in2="fbSourceGraphic" operator="in" result="result2"/>
+   <feComposite in="fbSourceGraphic" in2="result2" k2="1" k3="1" operator="arithmetic" result="result4"/>
+  </filter>
+  <filter id="filter11570-38" x="-.094202" y="-.13058" width="1.1884" height="1.2612" color-interpolation-filters="sRGB">
+   <feGaussianBlur result="result8" stdDeviation="4"/>
+   <feTurbulence baseFrequency="0.01 0.01" numOctaves="7" result="result7" seed="50"/>
+   <feColorMatrix result="result5" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.4 0 "/>
+   <feComposite in="result5" in2="result8" operator="in" result="result6"/>
+   <feDisplacementMap in="result5" in2="result6" result="result4" scale="100"/>
+   <feFlood flood-color="rgb(224,224,224)"/>
+   <feComposite in2="result4" operator="atop" result="result2"/>
+   <feComposite in="result2" in2="SourceGraphic" operator="atop" result="result9"/>
+   <feBlend in2="result9" mode="darken" result="fbSourceGraphic"/>
+   <feGaussianBlur in="fbSourceGraphic" result="result0" stdDeviation="5"/>
+   <feSpecularLighting lighting-color="#ffffff" in="result0" result="result1" specularConstant="0.80000001" specularExponent="30" surfaceScale="8">
+    <feDistantLight azimuth="235" elevation="55"/>
+   </feSpecularLighting>
+   <feComposite in="result1" in2="fbSourceGraphic" operator="in" result="result2"/>
+   <feComposite in="fbSourceGraphic" in2="result2" k2="1" k3="1" operator="arithmetic" result="result4"/>
+  </filter>
+  <filter id="filter11570-2" x="-.094202" y="-.13058" width="1.1884" height="1.2612" color-interpolation-filters="sRGB">
+   <feGaussianBlur result="result8" stdDeviation="4"/>
+   <feTurbulence baseFrequency="0.01 0.01" numOctaves="7" result="result7" seed="50"/>
+   <feColorMatrix result="result5" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.4 0 "/>
+   <feComposite in="result5" in2="result8" operator="in" result="result6"/>
+   <feDisplacementMap in="result5" in2="result6" result="result4" scale="100"/>
+   <feFlood flood-color="rgb(224,224,224)"/>
+   <feComposite in2="result4" operator="atop" result="result2"/>
+   <feComposite in="result2" in2="SourceGraphic" operator="atop" result="result9"/>
+   <feBlend in2="result9" mode="darken" result="fbSourceGraphic"/>
+   <feGaussianBlur in="fbSourceGraphic" result="result0" stdDeviation="5"/>
+   <feSpecularLighting lighting-color="#ffffff" in="result0" result="result1" specularConstant="0.80000001" specularExponent="30" surfaceScale="8">
+    <feDistantLight azimuth="235" elevation="55"/>
+   </feSpecularLighting>
+   <feComposite in="result1" in2="fbSourceGraphic" operator="in" result="result2"/>
+   <feComposite in="fbSourceGraphic" in2="result2" k2="1" k3="1" operator="arithmetic" result="result4"/>
+  </filter>
+ </defs>
+ <g transform="matrix(1.2597 0 0 1.2597 -12.74 -30.048)">
+  <rect transform="matrix(.33601 0 0 .33601 -1.7578 79.316)" x="35.856" y="25.032" width="230.7" height="166.43" fill="#fff" fill-rule="evenodd" filter="url(#filter11570)" stroke="#000" stroke-width=".26458"/>
+  <text x="35.017998" y="98.857643" font-family="Eurostile" font-size="9.7801px" stroke-width=".1357" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="35.017998" y="98.857643" font-family="Eurostile" font-size="9.7801px" stroke-width=".1357" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Drinks</tspan></text>
+  <g font-family="'Bradley Hand'" font-size="6.4071px" stroke-width=".088902">
+   <text x="29.158186" y="111.14146" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="29.158186" y="111.14146" font-family="'Bradley Hand'" font-size="6.4071px" stroke-width=".088902" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">fruit juice</tspan></text>
+   <text x="28.703539" y="119.3251" style="line-height:1.25" xml:space="preserve"><tspan x="28.703539" y="119.3251" stroke-width=".088902">Milk shake</tspan></text>
+   <text x="29.158186" y="126.1448" style="line-height:1.25" xml:space="preserve"><tspan x="29.158186" y="126.1448" stroke-width=".088902">Coconut water</tspan></text>
+   <text x="29.840157" y="132.96451" style="line-height:1.25" xml:space="preserve"><tspan x="29.840157" y="132.96451" stroke-width=".088902">Pito</tspan></text>
+   <text x="29.612831" y="139.78421" style="line-height:1.25" xml:space="preserve"><tspan x="29.612831" y="139.78421" stroke-width=".088902">Sobolo</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(9.4715)">
+  <rect transform="matrix(.4038 0 0 .4038 80.423 69.416)" x="35.856" y="25.032" width="230.7" height="166.43" fill="#fff" fill-rule="evenodd" filter="url(#filter11570-38)" stroke="#000" stroke-width=".26458"/>
+  <text x="129.84637" y="92.90062" font-family="Eurostile" font-size="11.753px" stroke-width=".16308" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="129.84637" y="92.90062" font-family="Eurostile" font-size="11.753px" stroke-width=".16308" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Local</tspan></text>
+  <g font-family="'Bradley Hand'" font-size="7.6998px" stroke-width=".10684">
+   <text x="117.57626" y="107.66283" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="117.57626" y="107.66283" font-family="'Bradley Hand'" font-size="7.6998px" stroke-width=".10684" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Fufu &amp; Light Soup</tspan></text>
+   <text x="117.02988" y="117.49762" style="line-height:1.25" xml:space="preserve"><tspan x="117.02988" y="117.49762" stroke-width=".10684">Banku &amp; Tilapia</tspan></text>
+   <text x="117.57626" y="125.69328" style="line-height:1.25" xml:space="preserve"><tspan x="117.57626" y="125.69328" stroke-width=".10684">Jollof</tspan></text>
+   <text x="113.16781" y="135.28308" style="line-height:1.25" xml:space="preserve"><tspan x="113.16781" y="135.28308" stroke-width=".10684">Ampesie  &amp; palava </tspan></text>
+  </g>
+ </g>
+ <text x="125.82473" y="214.5199" font-family="'Bradley Hand'" font-size="14.946px" stroke-width=".20739" style="line-height:1.25" xml:space="preserve"><tspan x="125.82473" y="214.5199" stroke-width=".20739"/></text>
+ <rect transform="matrix(.38737 0 0 .38737 190.41 69.828)" x="35.856" y="25.032" width="230.7" height="166.43" fill="#fff" fill-rule="evenodd" filter="url(#filter11570-2)" stroke="#000" stroke-width=".26458"/>
+ <text x="211.76851" y="91.937546" font-family="Eurostile" font-size="11.275px" stroke-width=".15645" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="211.76851" y="91.937546" font-family="Eurostile" font-size="11.275px" stroke-width=".15645" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Continental</tspan></text>
+ <g font-family="'Bradley Hand'">
+  <g font-size="7.3865px" stroke-width=".10249">
+   <text x="210.45631" y="106.93644" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="210.45631" y="106.93644" font-family="'Bradley Hand'" font-size="7.3865px" stroke-width=".10249" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Fried rice &amp; chicken</tspan></text>
+   <text x="209.51346" y="115.95226" style="line-height:1.25" xml:space="preserve"><tspan x="209.51346" y="115.95226" stroke-width=".10249">Plain rice &amp; beef sauce</tspan></text>
+   <text x="208.36275" y="124.65182" style="line-height:1.25" xml:space="preserve"><tspan x="208.36275" y="124.65182" stroke-width=".10249">Italian Pasta</tspan></text>
+   <text x="208.73022" y="132.51396" style="line-height:1.25" xml:space="preserve"><tspan x="208.73022" y="132.51396" stroke-width=".10249">French Fries</tspan></text>
+  </g>
+  <text x="99.780006" y="241.08044" font-size="11.935px" stroke-width=".1656" style="line-height:1.25" xml:space="preserve"><tspan x="99.780006" y="241.08044" stroke-width=".1656"/></text>
+ </g>
+</svg>

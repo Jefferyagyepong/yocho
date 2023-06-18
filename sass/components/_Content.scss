@@ -1,0 +1,81 @@
+.content-1 {
+ width: 100%;
+   
+}
+.para-1{
+   
+    width: 55%;
+}
+
+.background{
+    width: 100%;
+    height: 70vh;
+    background: url(/cho.jpg);
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ gap: 5rem;
+}
+.menu-title{
+    background-color: whitesmoke;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    color: #000;
+}
+address{
+text-align: center;
+}
+
+
+/*Small devices (Potrait tablets and large phones, 600px and up)
+*/
+@media only screen and (min-width: 600px) {
+
+     
+ 
+}
+
+
+
+/*Large devices (Landscape tablets, 768 and up)
+*/
+@media only screen and (min-width: 768px) {
+
+  
+ 
+}
+
+/*Large devices (Laptops/desktops, 992px and up)
+*/
+@media only screen and (min-width: 992px) {
+
+  
+ 
+}
+
+
+
+/* Extra Large devices (Laptops/desktops, 992px and up)
+*/
+@media only screen and (min-width: 1200px) {
+
+  
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+

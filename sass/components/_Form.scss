@@ -1,0 +1,16 @@
+.border-black {
+    border: 2px solid #000;
+    padding: 20px;
+    width: 22%;
+    color: #000;
+    transition: 0.3s ease;
+  
+}
+.border-black:hover {
+  background-color: #000;
+  color: #fff;
+  opacity: 3;
+}
+.underline{
+    text-decoration: underline;
+}
