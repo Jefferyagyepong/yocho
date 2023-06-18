@@ -19,7 +19,7 @@ export default function Footer() {
                 <h4>Quick Links</h4>
                 <ul>
               
-                       <li>   <Link href="#"  > Purchase gift items and coupons</Link></li>
+                       <li>   <Link href="#"  > Purchase gift item and coupons</Link></li>
                 <li> <Link href="#"  > Order Meal</Link></li>
                 <li> <Link href="#"  > Reservations</Link></li>
                 <li> <Link href="#"  > Menu today</Link></li>
