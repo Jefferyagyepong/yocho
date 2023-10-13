@@ -1,16 +1,16 @@
 .content-1 {
  width: 100%;
+ text-align: center;
+margin-top: 4rem;
+margin-bottom: 4rem;
    
 }
-.para-1{
-   
-    width: 55%;
-}
+
 
 .background{
     width: 100%;
     height: 70vh;
-    background: url(/cho.jpg);
+    background: url(/cho.jpeg);
  background-position: center;
  background-size: cover;
  background-repeat: no-repeat;
@@ -29,6 +29,10 @@
 }
 address{
 text-align: center;
+}
+border-black{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
 }
 
 
