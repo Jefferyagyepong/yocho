@@ -4,18 +4,15 @@ export default function Location() {
   return (
     <div className="content-1">
       <h2>L O C A T I O N</h2>
-      <br />
-      <br />
-      <br />
-      <address>7 Minetti St Atonsu, AK-717-5846</address>
-      <br />
-      <br />
-      <p>Here are directions to our location. We hope to see you soon!</p>
-      <Link href={"#"}>
-        <p className="underline">Get directions</p>
-      </Link>
-      <Link href={"#"}>
-        <p className="underline">Parking Information</p>
+
+      <address>📍 7 Minetti St Atonsu, AK-717-5846</address>
+
+      <p>Here are directions to our location. We hope to see you soon!</p><br/>
+      <Link href={"#"} className="content-link">
+        Get directions
+      </Link><br/>
+      <Link href={"#"} className="content-link">
+        Parking Information
       </Link>
     </div>
   );

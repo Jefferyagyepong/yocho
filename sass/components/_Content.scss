@@ -1,76 +1,25 @@
+@import "../abstracts/variables";
+
 .content-1 {
- width: 100%;
+ width: $width-max;
  text-align: center;
-margin-top: 4rem;
-margin-bottom: 4rem;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+
+
    
 }
-
-
-.background{
-    width: 100%;
-    height: 70vh;
-    background: url(/cho.jpeg);
- background-position: center;
- background-size: cover;
- background-repeat: no-repeat;
- display: flex;
- flex-direction: row;
- justify-content: center;
- align-items: center;
- gap: 5rem;
-}
-.menu-title{
-    background-color: whitesmoke;
+.content-link{
+    background-color: black;
     border: none;
-    padding: 10px;
-    text-align: center;
-    color: #000;
-}
-address{
-text-align: center;
-}
-border-black{
-    margin-top: 4rem;
-    margin-bottom: 4rem;
+    border-radius: 5px;
+    color: white;
+    padding: 0.6rem 1rem ;
+    transition: 0.5s;
 }
 
-
-/*Small devices (Potrait tablets and large phones, 600px and up)
-*/
-@media only screen and (min-width: 600px) {
-
-     
- 
-}
-
-
-
-/*Large devices (Landscape tablets, 768 and up)
-*/
-@media only screen and (min-width: 768px) {
-
-  
- 
-}
-
-/*Large devices (Laptops/desktops, 992px and up)
-*/
-@media only screen and (min-width: 992px) {
-
-  
- 
-}
-
-
-
-/* Extra Large devices (Laptops/desktops, 992px and up)
-*/
-@media only screen and (min-width: 1200px) {
-
-  
- 
-}
 
 
 

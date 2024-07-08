@@ -1,54 +1,36 @@
-
-
-
-.Header {
-    display: flex;
-      justify-content: space-between;
-      align-items: center;
-      width: 100%;
-      display: grid;
-      grid-template-columns: 1fr 0fr;
- 
-      }
-      .nav-link{
-        list-style: none;
-  margin-left: 100rem;
-      }
-           
-        
-                .nav-links {
-              
-                  display: inline-block;
-                  padding: 15px;
-                
-                 
-                }
-                
-                .menu{
-                  display: none;
-                }
-              
-
-.top-nav {
+@import "../abstracts/variables";
+header {
+  width: $width-max;
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  
+
+}
+
+
+.menu {
+  display: none;
+}
+
+
+.top-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
   height: 50px;
-  padding: 1em;
+
 }
 
 .menu {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   list-style-type: none;
   margin: 0;
-  padding: 20px;
-  gap: 2rem;
-  transition: 0.3s ease;
-}
-.salmon-mobile:hover{
- padding-left: 10px;
- color: yellowgreen;
+  padding: 0;
 }
 
 .menu>li {
@@ -74,7 +56,8 @@
 .menu-button::before,
 .menu-button::after {
   display: block;
-  background-color: #000;
+  background-color: gray;
+  color: #fff;
   position: absolute;
   height: 1px;
   width: 20px;
@@ -113,14 +96,14 @@
 
   .menu {
     position: absolute;
-    top: 20px;
-    margin-top: 70px;
+    top: 0;
+    margin-top: 0;
     right: 0;
     flex-direction: column;
     width: 100%;
     justify-content: center;
     align-items: center;
-    padding: 2rem;
+    padding: 0;
   }
 
   #menu-toggle~.menu li {
@@ -129,6 +112,7 @@
     padding: 0;
     border: 0;
     transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
+    background-color: #141c3aff;
   }
 
   #menu-toggle:checked~.menu li {
@@ -141,35 +125,12 @@
     display: flex;
     justify-content: center;
     margin: 0;
+    padding: 0.9em 0;
     width: 100%;
-    color: white;
- 
+
   }
 
   .menu>li:not(:last-child) {
-    border-bottom: 1px solid #444;
+    border-bottom: 1px solid #141c3aff;
   }
 }
-.salmon-mobile{
-  color: #000;
-  
-
-}
-
-             
-               
-      
-    
-     
-      
- 
-    
-     
-
-      
-
-            
-        
-    
-    
-   
